@@ -7,9 +7,6 @@ export const findTheOdd = (numbers: number[]) => {
 	const oddCountNumber = Object.keys(data).find((key) => data[key] % 2 === 1)
 
 	if (oddCountNumber) {
-		console.log(
-			`[${numbers}] should return ${oddCountNumber}, because it occurs ${data[oddCountNumber]} time (which is odd).`
-		)
 		return `[${numbers}] should return ${oddCountNumber}, because it occurs ${data[oddCountNumber]} time (which is odd).`
 	} else {
 		console.log(
