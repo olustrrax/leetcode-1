@@ -5,7 +5,8 @@
 
 - [README.md](./README.md)
 > *Problem 1*: Show coding logic and unit test **Permutations**
-- [findOdd.ts](./findOdd.ts)
+- [permutation.ts](./permutation.ts)
+- [permutation..spec.ts](./permutation.spec.ts)
 
 > *Problem 2*: Show coding logic and unit test **Find the odd int**
 - [findOdd.ts](./findOdd.ts)
