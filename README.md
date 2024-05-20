@@ -16,6 +16,11 @@
 - [smilings.ts](./smilings.ts)
 - [smilings.spec.ts](./smilings.spec.ts)
 
+## Define Conversion
+- Logic file naming : Should be camelCase.ts
+- Test file naming : Should be camelCase.spec.ts
+- Indentation: 2 spaces
+- Variable Naming: camelCase
 
 ## Setup
 1.) Prepare you NodeJS, I recommend you to use node version above 16.x
